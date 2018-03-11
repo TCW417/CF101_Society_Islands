@@ -1,0 +1,94 @@
+body {
+    background-color: lightblue;
+    /* background-image: url("society_islands_map_960x648.gif") */
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: lightseagreen;
+    width:125px;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+    padding-top: 0px;
+    margin-left: 5px;
+    margin-top: -5px;
+}
+
+.navbackground {
+    background-color: lightseagreen;
+    position: fixed;
+    padding: 17px;
+    width: 125px;
+    height: 100%;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    bottom: 0;
+}
+
+nav header {
+    background-color: none;
+}
+section {
+    display: inline-block;
+    width: 640px;
+    margin-left: 10px;
+}
+
+nav a {
+    color: none;
+    font-family: Arial;
+}
+
+img {
+    width: 640px;
+}
+
+li {
+
+}
+
+li a {
+
+}
+
+.headerfont {
+
+}
+
+h1 {
+    font-family: Verdana;
+    font-size: 300%;
+    color: purple;
+    background-color: lightseagreen;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    padding-left: 10px; 
+    margin: 0 5px 5px 5px;
+    height: 65px;
+}
+
+h2 {
+    font-family: Arial;
+    color: purple;
+    background-color: lightseagreen;
+}
+h3 {
+    font-family: Arial;
+    color: purple;
+    background-color: lightseagreen;
+}
+
+h4 {
+    font-family: Arial;
+}
+
+p {
+    font-family: Arial;
+}
+
+#footnote {
+    font-size: 50%;
+}
